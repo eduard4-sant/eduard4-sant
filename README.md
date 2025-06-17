@@ -20,11 +20,19 @@ Gosto de imaginar que, com um olhar atento e um pouco de sensibilidade, posso co
 
 ### 🍃 Tecnologias e Ferramentas que estou explorando:
 
-<img src="https://img.shields.io/badge/Java-fff?style=for-the-badge&logo=openjdk&logoColor=007396"/> <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Figma-fff?style=for-the-badge&logo=figma&logoColor=F24E1E"/> <img src="https://img.shields.io/badge/Photoshop-fff?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/> <img src="https://img.shields.io/badge/Illustrator-fff?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/> <img src="https://img.shields.io/badge/CorelDRAW-fff?style=for-the-badge&logo=coreldraw&logoColor=00B140"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" style="margin-right: 10px;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40"/>
+</p>
 
 ---
 
-### 🌿 GitHub Stats
+### 🌿Trajetória no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduard4-sant&show_icons=true&theme=graywhite&hide_border=true&icon_color=6caa64&title_color=6caa64" />
@@ -33,14 +41,8 @@ Gosto de imaginar que, com um olhar atento e um pouco de sensibilidade, posso co
 
 ---
 
-### 🍃 Em constante crescimento:
-- Interfaces intuitivas e acessíveis
-- Prototipação criativa com Figma
-- JavaScript aplicado a interações reais
-- Boas práticas de design e usabilidade
 
----
 
 <div align="center">
-Feito com 💚, café e muita vontade de aprender 🌱
+Desenvolvido com bug, café e persistência 💚🐛
 </div>
