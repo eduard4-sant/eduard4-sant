@@ -4,7 +4,7 @@
 <h1 align="center">🌱 Maria Eduarda de Santana</h1>
 
 <p align="center">
-Estudante de ADS • UX/UI em crescimento • Front-End apaixonada por experiências 🌿
+Estudante de ADS • UX/UI • Front-End 🌿
 </p>
 
 ---
