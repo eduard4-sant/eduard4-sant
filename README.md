@@ -46,5 +46,5 @@ Atualmente me aprofundo no universo de **UX/UI** e **desenvolvimento front-end**
 
 
 <div align="center">
-Desenvolvido com bug, café e persistência 💚🐛
+ 💚🐛
 </div>
