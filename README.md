@@ -16,7 +16,7 @@ Estudante de ADS • UX/UI • Front-End 🌿
 Oiê! Eu sou Maria Eduarda de Santana, estudante de Análise e Desenvolvimento de Sistemas 🌱  
 Atualmente me aprofundo no universo de **UX/UI** e **desenvolvimento front-end**, explorando como a tecnologia pode ser mais humana e sensível.
 
-Gosto de imaginar que, com um olhar atento e um pouco de sensibilidade, posso contribuir para tornar a experiência das pessoas mais **bonita**, **simples** e **acolhedora** — e é isso que me move 🌼
+
 
 ---
 
